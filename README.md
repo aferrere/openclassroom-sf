@@ -1,38 +1,3 @@
-
-### Reprise des éléments vus en cours
-| Items | Eval   |
-| :------- |  :---: |
-| 1 Flux rss intégré | -    |
-| 2 Gestion utilisateurs | +    |
-| 3 Gestion de composer | +    |
-| 4 Mise en place de contraintes sur les champs clés | +   |
-| 5 Mise en place d'un menu | +   |
-| 6 Mise en place d'une commande pour les utilisateurs | + |
-| 7 Utilisation intelligente des hincludes | + |
-
-### Éléments attendus du TP
-
-| Items     | Eval   |
-| :------- |  :---: |
-| 1 Articles : Affichage de la liste paginée  | + |
-| 2 Articles : Création  | - |
-| 3 Articles : Édition | -- |
-| 4 Articles : Suppression | + |
-| 5 Articles : Affichage dynamique des autres articles | - |
-| 6 Articles : Affichage des articles du jour sur la homepage  | - |
-| 7 Articles : Mise en place d'une commande pour générer des articles | + |
-| &nbsp; | &nbsp; |
-| 8 Documentation projet (homepage/readme) |  -  |
-| 9 Homepage personnalisée  | + |
-| 10 Sait organiser son code | + |
-| 11 Code clair et sans code commenté | + |
-| 12 Les paramètres de vue sont justifiés  | + |
-| 13 Les routes sont cohérentes  | + |
-| 14 Le site fonctionne en mode "prod"  | + |
-| &nbsp; | &nbsp; |
-| **Qualité globale du livrable**  | **+** |
-
-
 openclassroom-sf
 ================
 Symfony2 - Semaine 2 - Créer un CoreBundle
